@@ -64,5 +64,6 @@ public class Amazon {
 			}			
 		}
 		System.out.println(out);
+		System.out.println(out);
 	}
 }
