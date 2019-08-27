@@ -63,7 +63,7 @@ public class Amazon {
 				}
 			}			
 		}
-		System.out.println(out);
-		System.out.println(out);
+		//System.out.println(out);
+		int q = 1; System.out.println(out);
 	}
 }
