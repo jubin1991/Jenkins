@@ -10,6 +10,7 @@ public class Amazon {
 		String out = "";
 		char ch2;
 		System.out.println(s);
+		//zubin
 		
 		ArrayList<String> al = new ArrayList<String>();
 		for(int i=0;i<s.length();i++) {
